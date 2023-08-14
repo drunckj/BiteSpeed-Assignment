@@ -2,6 +2,8 @@
 
 [![Hosted URL](https://img.shields.io/badge/Hosted%20URL-bitespeed--assignment--lo9q.onrender.com-blue.svg)](https://bitespeed-assignment-lo9q.onrender.com)
 
+[![Postman](https://img.shields.io/badge/Postman-Run%20in%20Postman-orange.svg)](https://www.postman.com/payload-operator-23565686/workspace/bitespeed-assignment/collection/22904553-659d4ec3-6b29-4316-95b2-4a2c7db487eb?action=share&creator=22904553)
+
 This repository contains the code for the BiteSpeed Assignment, which is a web application for performing various operations with a PostgreSQL database.
 
 ## API Endpoints
